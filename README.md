@@ -132,12 +132,4 @@ https://seu-usuario.github.io/meu-cv/
 - **LinkedIn:** [Felippe Oliveira](https://www.linkedin.com/in/felippe-oliveira-80018b379/)
 - **GitHub:** [@giordany10](https://github.com/giordany10)
 
----
-
-##Licença
-
-Este projeto é de uso livre. Sinta-se à vontade para usar como base para seu próprio currículo!
-
----
-
 **Desenvolvido  por Felippe Oliveira**
