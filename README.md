@@ -14,9 +14,6 @@ meu-cv/
 │   └── foto-perfil.jpg     # Foto de perfil
 └── README.md               # Este arquivo
 ```
-
----
-
 ## Como Usar Localmente
 
 1. **Clone ou baixe o repositório:**
@@ -35,19 +32,6 @@ meu-cv/
    - Substitua `assets/foto-perfil.jpg` por sua foto
 
 ---
-
-##  Customizando as Cores
-
-Todas as cores estão centralizadas no arquivo `style.css`, dentro de `:root`:
-
-```css
-:root {
-  --bg: #0f1419;              /* Fundo principal */
-  --primary: #6366f1;         /* Cor primária */
-  --accent: #ec4899;          /* Cor de destaque */
-  --text: #f1f5f9;            /* Texto principal */
-  --text-muted: #94a3b8;      /* Texto secundário */
-}
 ##  Publicar no GitHub Pages
 
 ### Passo 1: Criar Repositório
