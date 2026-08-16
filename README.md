@@ -9,7 +9,7 @@ Currículo pessoal desenvolvido com **HTML, CSS e JavaScript**, apresentando um 
 meu-cv/
 ├── index.html              # Estrutura principal da página
 ├── style.css               # Estilos (cores, layout, animações)
-├── script.js               # Funcionalidades (scroll suave, interações)
+├── script.js               # Funcionalidades (scroll e interações)
 ├── assets/
 │   └── foto-perfil.jpg     # Foto de perfil
 └── README.md               # Este arquivo
@@ -48,44 +48,6 @@ Todas as cores estão centralizadas no arquivo `style.css`, dentro de `:root`:
   --text: #f1f5f9;            /* Texto principal */
   --text-muted: #94a3b8;      /* Texto secundário */
 }
-```
-
----
-
-##  Editando o Conteúdo
-
-### Mudar Foto de Perfil
-Substitua o arquivo `assets/foto-perfil.jpg` ou ajuste o caminho em `index.html`:
-```html
-<img src="assets/foto-perfil.jpg" alt="Sua foto" />
-```
-
-### Adicionar/Remover Seções
-As seções principais estão em `index.html`:
-- **Sobre** - `#sobre`
-- **Formação** - `#formacao`
-- **Experiência** - `#experiencia`
-- **Habilidades** - `#habilidades`
-- **Projetos** - `#projetos`
-
-### Adicionar Novo Projeto
-Duplique um dos cards em `#projetos`:
-```html
-<article class="project-item">
-  <div class="project-header">
-    <h3>Nome do Projeto</h3>
-    <span class="project-tech">Categoria</span>
-  </div>
-  <p>Descrição do projeto...</p>
-  <div class="project-tags">
-    <span>Tech 1</span>
-    <span>Tech 2</span>
-  </div>
-</article>
-```
-
----
-
 ##  Publicar no GitHub Pages
 
 ### Passo 1: Criar Repositório
