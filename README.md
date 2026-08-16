@@ -59,23 +59,3 @@ git push -u origin main
 4. Clique em "Save"
 
 ### Passo 4: Acessar o Site
-Em poucos minutos, seu currículo estará disponível em:
-```
-https://seu-usuario.github.io/meu-cv/
-
-##  Recursos Utilizados
-
-- HTML
-- CSS
-- JavaScript
-- Google Fonts
-
----
-
-## Contato
-
-- **Email:** lippeoliveira8@gmail.com
-- **LinkedIn:** [Felippe Oliveira](https://www.linkedin.com/in/felippe-oliveira-80018b379/)
-- **GitHub:** [@giordany10](https://github.com/giordany10)
-
-**Desenvolvido  por Felippe Oliveira**
